@@ -1,3 +1,27 @@
+참고: 
+- [GitHub Pages](https://github.com/skills/github-pages)
+- [Jekyll FrontMatter](https://jekyllrb.com/docs/front-matter/)
+
+Getting back into markdown, here's my quick lazy cheatsheet.
+
+double space : 줄바꿈  
+\_ \_ : italics  
+\** \** : bold  
+\- : bullet point  
+
+\[ \] (link) : hyperlink  
+\!\[alt](imagelink) : image  
+
+\> : quote  
+\<!-- \--> : 주석  
+\` \` : short code  
+\``` yml \``` : yml code  
+
+\<details id=1> \</details> : collapsable  
+\<summary> \</summary> : title for collapsed  
+
+
+
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
