@@ -4,19 +4,19 @@
 
 Getting back into markdown, here's my quick lazy cheatsheet.
 
-
-\_ \_ : italics
-\** \** : bold
-\[ \] (link) : hyperlink
-\- : bullet point
-\![alt](imagelink) : image
-\<details id=1> </details> : collapsable
-\<summary></summary> : title for collapsed
-\> : quote
-\<!-- \--> : 주석
-\:sparkles: : emoji
-\` \` : short code
-\``` yml \``` : yml code
+double space : 줄바꿈  
+\_ \_ : italics  
+\** \** : bold  
+\[ \] (link) : hyperlink  
+\- : bullet point  
+\!\[alt](imagelink) : image  
+\<details id=1> \</details> : collapsable  
+\<summary></summary> : title for collapsed  
+\> : quote  
+\<!-- \--> : 주석  
+\:sparkles\: : emoji  
+\` \` : short code  
+\``` yml \``` : yml code  
 
 
 
