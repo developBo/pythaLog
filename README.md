@@ -2,6 +2,20 @@
 - [GitHub Pages](https://github.com/skills/github-pages)
 - [Jekyll FrontMatter](https://jekyllrb.com/docs/front-matter/)
 
+Getting back into markdown, here's my quick lazy cheatsheet:
+_ _ : italics
+** ** : bold
+[ ] (link) : hyperlink
+- : bullet point
+![alt](imagelink) : image
+<details id=1> </details> : collapsable
+<summary></summary> : title for collapsed
+> : quote
+<!-- --> : 주석
+:sparkles: : emoji
+` ` : short code
+``` yml ``` : yml code
+
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
