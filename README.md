@@ -7,16 +7,18 @@ Getting back into markdown, here's my quick lazy cheatsheet.
 double space : 줄바꿈  
 \_ \_ : italics  
 \** \** : bold  
-\[ \] (link) : hyperlink  
 \- : bullet point  
+
+\[ \] (link) : hyperlink  
 \!\[alt](imagelink) : image  
-\<details id=1> \</details> : collapsable  
-\<summary></summary> : title for collapsed  
+
 \> : quote  
 \<!-- \--> : 주석  
-\:sparkles\: : emoji  
 \` \` : short code  
 \``` yml \``` : yml code  
+
+\<details id=1> \</details> : collapsable  
+\<summary> \</summary> : title for collapsed  
 
 
 
